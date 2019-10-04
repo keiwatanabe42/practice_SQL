@@ -1,0 +1,4 @@
+-- SELECT WHERE‹å‚Étanka‚ª1000ˆÈã‚ÌƒŒƒR[ƒhŒŸõ
+SELECT shohin_mei, shohin_bunrui, hanbai_tanka
+FROM Shohin
+WHERE hanbai_tanka >= 1000;
